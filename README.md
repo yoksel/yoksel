@@ -23,7 +23,7 @@ Interactive demos with definitions from specs
 **🎨 Tools for colors**
 
 * [Handy Colors](https://yoksel.github.io/handy-colors/) — CSS named colors with ready palettes
-* [Tema](https://yoksel.github.io/tema/) — color themes generator from CSS/SCSS/Less variables. Convenient for pet projects without fixed design
+* [Tema](https://yoksel.github.io/tema/) — palettes generator from CSS/SCSS/Less variables. Convenient for pet projects without fixed design
 
 **💃 Just for fun**
 
