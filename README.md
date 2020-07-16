@@ -13,7 +13,7 @@ Interactive demos with definitions from specs
 
 **📐 Tools for SVG**
 
-* [URL-encoder for SVG](http://yoksel.github.io/url-encoder/) — encode SVG for using in CSS backgrounds or masks
+* [URL-encoder for SVG](http://yoksel.github.io/url-encoder/) — encodes SVG for using in CSS backgrounds or masks
 * [SVG Filters](http://yoksel.github.io/svg-filters/) — playground for SVG filters
 * [SVG Gradient Map Filter](http://yoksel.github.io/svg-gradient-map/) — colorful  filters generator
 * [Relative Clip Path](https://yoksel.github.io/relative-clip-path/) — converts SVG absolute clip-path to relative
@@ -29,6 +29,6 @@ Interactive demos with definitions from specs
 
 * [Emoji Brush](https://yoksel.github.io/emoji-brush/)
 * [Snowflake Painter](https://yoksel.github.io/snowflake/)
-* [Shadow Painter](http://yoksel.github.io/shadowPainter/)
+* [Box-shadow Painter](http://yoksel.github.io/shadowPainter/)
 
 </td></tr></table>
