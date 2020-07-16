@@ -31,5 +31,4 @@ Interactive demos with definitions from specs
 * [Snowflake Painter](https://yoksel.github.io/snowflake/)
 * [Box-shadow Painter](http://yoksel.github.io/shadowPainter/)
 
-<img src="https://mc.yandex.ru/watch/65668912" alt="" />
 </td></tr></table>
