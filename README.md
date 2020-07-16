@@ -1,6 +1,4 @@
-# Hi! I'm Yoksel
-
-I hope, some of my projects will be useful for you
+Hi! 👋 I hope, some of my projects will be useful for you
 
 * [Grid Cheatsheet](https://yoksel.github.io/grid-cheatsheet/)
 * [Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
