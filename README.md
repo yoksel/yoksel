@@ -15,10 +15,15 @@ Interactive demos with definitions from specs
 
 * [URL-encoder for SVG](http://yoksel.github.io/url-encoder/) — encodes SVG for using in CSS backgrounds or masks
 * [SVG Filters](http://yoksel.github.io/svg-filters/) — playground for SVG filters
-* [SVG Gradient Map Filter](http://yoksel.github.io/svg-gradient-map/) — colorful  filters generator
+* [SVG Gradient Map Filter](http://yoksel.github.io/svg-gradient-map/) — generator of colorful filters 
 * [Relative Clip Path](https://yoksel.github.io/relative-clip-path/) — converts SVG absolute clip-path to relative
 
 </td><td valign="top" width="50%">
+
+**🛠 Tools for markup**
+
+* [HTML Tree](http://yoksel.github.io/html-tree/) — shows document tree for given HTML
+* [Pixel Glass](https://yoksel.github.io/pixel-glass-js/) — tiny JS library for visual checking markup
 
 **🎨 Tools for colors**
 
