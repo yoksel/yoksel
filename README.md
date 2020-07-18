@@ -37,3 +37,10 @@ Interactive demos with definitions from specs
 * [Box-shadow Painter](http://yoksel.github.io/shadowPainter/)
 
 </td></tr></table>
+
+**Для верстальщиков**
+
+* [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+* [Простые правила разметки](http://yoksel.github.io/easy-markup/)
+* [Простой CSS](https://yoksel.github.io/easy-css/)
+* [HTML & CSS: как не надо](https://yoksel.github.io/bad-practices/)
