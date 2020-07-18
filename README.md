@@ -22,7 +22,7 @@ Interactive demos with definitions from specs
 
 **🛠 Tools for markup**
 
-* [HTML Tree](http://yoksel.github.io/html-tree/) — shows document tree for given HTML
+* [HTML Tree](http://yoksel.github.io/html-tree/en) — shows document tree for given HTML
 * [Pixel Glass](https://yoksel.github.io/pixel-glass-js/) — tiny JS library for visual checking markup
 
 **🎨 Tools for colors**
