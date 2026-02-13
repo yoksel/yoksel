@@ -1,6 +1,6 @@
 ### 👋 Hi!
 
-I hope, some of my projects will be useful for you
+I hope some of my projects will be useful for you
 
 <table><tr><td valign="top" width="50%">
 
